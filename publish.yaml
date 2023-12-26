@@ -2,7 +2,7 @@ Type: Application
 Name: devsapp/start-lambda
 Provider:
   - AWS
-Version: 0.1.1
+Version: 0.1.2
 Description: 快速的将项目部署到Lambda。
 HomePage: https://github.com/devscomp/start-lambda
 Tags:
@@ -19,3 +19,4 @@ Service:
       - 创建服务
       - 删除服务
     Runtime: Node.JS
+Effective: Public
