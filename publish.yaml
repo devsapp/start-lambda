@@ -1,5 +1,5 @@
 Type: Application
-Name: devscomp/start-lambda
+Name: devsapp/start-lambda
 Provider:
   - AWS
 Version: 0.1.1
